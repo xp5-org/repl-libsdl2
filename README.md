@@ -1,3 +1,10 @@
+What is SDL? From https://wiki.libsdl.org/Introduction - 
+```Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D```
+
+```
+
+
+```
 demo program included found at https://gist.github.com/jordandee/94b187bcc51df9528a2f
 
 
@@ -46,6 +53,14 @@ libsdl-image1.2
 libsdl2-dev 
 libsdl-mixer1.2-dev
 ```
+
+
+Tutorials:
+
+http://www.sdltutorials.com/tutorials
+
+
+
 
 
 todo:
