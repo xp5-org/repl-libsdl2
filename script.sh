@@ -1,4 +1,4 @@
-
+export DISPLAY=:0.0
 
 if [ ! -f /usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0 ]
 then
